@@ -17,3 +17,10 @@ a:visited {
 a:hover{
     color: brown;
 }
+
+table, tr, th, td, caption {
+    border: 1px solid #bbb;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
